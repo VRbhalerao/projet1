@@ -22,7 +22,7 @@ public function company()
 }
 public function contact_us()
 {
-    return "welcome to udaan company";
+    return "welcome to udaan company is popular frued";
 
 }
 }

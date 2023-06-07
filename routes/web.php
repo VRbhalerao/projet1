@@ -19,8 +19,3 @@ route::get('/home',[Basecontroller::class,'home']);
 route::get('/services',[Basecontroller::class,'services']);
 route::get('/company',[Basecontroller::class,'company']);
 route::get('/contact_us',[Basecontroller::class,'contact_us']);
-
-route::post('/company',[Basecontroller::class,'company']);
-route::post('/company',[Basecontroller::class,'company']);
-route::post('/company',[Baseconteroller::class,'company']);
-
